@@ -1,0 +1,15 @@
+D:\Documentos\Alura\Csharp\AprendendoCSharp\p13 - EncadeandoFor\bin\Debug\net6.0\p13 - EncadeandoFor.exe
+D:\Documentos\Alura\Csharp\AprendendoCSharp\p13 - EncadeandoFor\bin\Debug\net6.0\p13 - EncadeandoFor.deps.json
+D:\Documentos\Alura\Csharp\AprendendoCSharp\p13 - EncadeandoFor\bin\Debug\net6.0\p13 - EncadeandoFor.runtimeconfig.json
+D:\Documentos\Alura\Csharp\AprendendoCSharp\p13 - EncadeandoFor\bin\Debug\net6.0\p13 - EncadeandoFor.dll
+D:\Documentos\Alura\Csharp\AprendendoCSharp\p13 - EncadeandoFor\bin\Debug\net6.0\p13 - EncadeandoFor.pdb
+D:\Documentos\Alura\Csharp\AprendendoCSharp\p13 - EncadeandoFor\obj\Debug\net6.0\p13 - EncadeandoFor.csproj.AssemblyReference.cache
+D:\Documentos\Alura\Csharp\AprendendoCSharp\p13 - EncadeandoFor\obj\Debug\net6.0\p13 - EncadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Alura\Csharp\AprendendoCSharp\p13 - EncadeandoFor\obj\Debug\net6.0\p13 - EncadeandoFor.AssemblyInfoInputs.cache
+D:\Documentos\Alura\Csharp\AprendendoCSharp\p13 - EncadeandoFor\obj\Debug\net6.0\p13 - EncadeandoFor.AssemblyInfo.cs
+D:\Documentos\Alura\Csharp\AprendendoCSharp\p13 - EncadeandoFor\obj\Debug\net6.0\p13 - EncadeandoFor.csproj.CoreCompileInputs.cache
+D:\Documentos\Alura\Csharp\AprendendoCSharp\p13 - EncadeandoFor\obj\Debug\net6.0\p13 - EncadeandoFor.dll
+D:\Documentos\Alura\Csharp\AprendendoCSharp\p13 - EncadeandoFor\obj\Debug\net6.0\refint\p13 - EncadeandoFor.dll
+D:\Documentos\Alura\Csharp\AprendendoCSharp\p13 - EncadeandoFor\obj\Debug\net6.0\p13 - EncadeandoFor.pdb
+D:\Documentos\Alura\Csharp\AprendendoCSharp\p13 - EncadeandoFor\obj\Debug\net6.0\p13 - EncadeandoFor.genruntimeconfig.cache
+D:\Documentos\Alura\Csharp\AprendendoCSharp\p13 - EncadeandoFor\obj\Debug\net6.0\ref\p13 - EncadeandoFor.dll

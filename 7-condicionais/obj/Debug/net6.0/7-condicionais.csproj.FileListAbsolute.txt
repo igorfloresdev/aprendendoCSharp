@@ -1,0 +1,15 @@
+D:\Documentos\Alura\Csharp\AprendendoCSharp\7-condicionais\bin\Debug\net6.0\7-condicionais.exe
+D:\Documentos\Alura\Csharp\AprendendoCSharp\7-condicionais\bin\Debug\net6.0\7-condicionais.deps.json
+D:\Documentos\Alura\Csharp\AprendendoCSharp\7-condicionais\bin\Debug\net6.0\7-condicionais.runtimeconfig.json
+D:\Documentos\Alura\Csharp\AprendendoCSharp\7-condicionais\bin\Debug\net6.0\7-condicionais.dll
+D:\Documentos\Alura\Csharp\AprendendoCSharp\7-condicionais\bin\Debug\net6.0\7-condicionais.pdb
+D:\Documentos\Alura\Csharp\AprendendoCSharp\7-condicionais\obj\Debug\net6.0\7-condicionais.csproj.AssemblyReference.cache
+D:\Documentos\Alura\Csharp\AprendendoCSharp\7-condicionais\obj\Debug\net6.0\7-condicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Alura\Csharp\AprendendoCSharp\7-condicionais\obj\Debug\net6.0\7-condicionais.AssemblyInfoInputs.cache
+D:\Documentos\Alura\Csharp\AprendendoCSharp\7-condicionais\obj\Debug\net6.0\7-condicionais.AssemblyInfo.cs
+D:\Documentos\Alura\Csharp\AprendendoCSharp\7-condicionais\obj\Debug\net6.0\7-condicionais.csproj.CoreCompileInputs.cache
+D:\Documentos\Alura\Csharp\AprendendoCSharp\7-condicionais\obj\Debug\net6.0\7-condicionais.dll
+D:\Documentos\Alura\Csharp\AprendendoCSharp\7-condicionais\obj\Debug\net6.0\refint\7-condicionais.dll
+D:\Documentos\Alura\Csharp\AprendendoCSharp\7-condicionais\obj\Debug\net6.0\7-condicionais.pdb
+D:\Documentos\Alura\Csharp\AprendendoCSharp\7-condicionais\obj\Debug\net6.0\7-condicionais.genruntimeconfig.cache
+D:\Documentos\Alura\Csharp\AprendendoCSharp\7-condicionais\obj\Debug\net6.0\ref\7-condicionais.dll
